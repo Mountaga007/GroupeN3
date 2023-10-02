@@ -1,0 +1,1 @@
+Ceci est le file qu je dois mettre dans .gitignore!
